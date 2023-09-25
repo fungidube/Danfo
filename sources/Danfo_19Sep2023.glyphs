@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "xj//njvꭓxz",
@@ -23790,7 +23790,7 @@ unicode = 514;
 },
 {
 glyphname = "Alpha-latin";
-lastChange = "2023-09-22 00:30:19 +0000";
+lastChange = "2023-09-25 16:40:30 +0000";
 layers = (
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -23880,7 +23880,7 @@ nodes = (
 (551,671,c),
 (448,177,l),
 (409,-3,o),
-(530,-56,o),
+(510,88,o),
 (625,36,c)
 );
 }
